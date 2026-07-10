@@ -1,0 +1,4 @@
+.claude/
+public/
+tmp/
+package-lock.json

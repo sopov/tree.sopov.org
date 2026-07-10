@@ -1,0 +1,2436 @@
+0 HEAD
+1 SOUR AgelongTree
+2 NAME Древо Жизни
+2 VERS 6.2
+2 CORP Genery.com
+1 CHAR UTF-8
+1 DATE 14 JUL 2026
+1 _DBGUID 843ca226-09b3-4ab6-b766-0c95a8e78348
+1 GEDC
+2 VERS 5.5.1
+2 FORM Lineage-Linked
+1 SUBM @U0@
+0 @U0@ SUBM
+1 NAME Древо Жизни, https://genery.com/ru/
+0 @I1@ INDI
+1 _UID DWknNQGlalIcLlyoklX9aN7zjJe7
+1 NAME Тимофей Федорович /Сопов/
+2 GIVN Тимофей Федорович
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F13@
+1 DEAT Y
+1 FAMS @F1@
+0 @I2@ INDI
+1 _UID DWknNQGK0SA57fmpbHZO/02wRR8f
+1 NAME Татьяна /Кисилёва/
+2 GIVN Татьяна
+2 SURN Кисилёва
+2 _MARNM Сопова
+1 SEX F
+1 DEAT Y
+1 FAMS @F1@
+0 @I3@ INDI
+1 _UID DWknNQFnWihAEYbLkTvE2iUgEZUT
+1 NAME Надежда Тимофеевна /Сопова/
+2 GIVN Надежда Тимофеевна
+2 _MARNM Сопова
+1 SEX F
+1 FAMC @F1@
+1 DEAT Y
+1 FAMS @F2@
+0 @I4@ INDI
+1 _UID DWknNQGe7cKkc5m9/eiEU3gdMrJ3
+1 NAME Елизавета /Сопова/
+2 GIVN Елизавета
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMC @F2@
+1 DEAT Y
+0 @I5@ INDI
+1 _UID DWknNQHy5HVDymP7n6xvyTMFPjLz
+1 NAME Иннокентий Тимофеевич /Сопов/
+2 GIVN Иннокентий Тимофеевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F1@
+1 DEAT Y
+1 FAMS @F3@
+0 @I6@ INDI
+1 _UID DWknNQFzrUjEwb7xmrYcvCJ75QGg
+1 NAME Людмила /Сопова/
+2 GIVN Людмила
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMC @F2@
+1 DEAT Y
+0 @I7@ INDI
+1 _UID DWknNQFQbNSGPgbfdigReSkQpfIA
+1 NAME Зоя /Сопова/
+2 GIVN Зоя
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 DEAT Y
+1 FAMS @F3@
+0 @I8@ INDI
+1 _UID DWknNQHUR22T+fftDb2r350IB1/W
+1 NAME Валентина Иннокентьевна /Сопова/
+2 GIVN Валентина Иннокентьевна
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMC @F3@
+1 DEAT Y
+0 @I9@ INDI
+1 _UID DWknNQFT8AbFNvb3ClR3gSefQQIs
+1 NAME Анатолий Иннокентьевич /Сопов/
+2 GIVN Анатолий Иннокентьевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F3@
+1 DEAT Y
+1 FAMS @F4@
+0 @I10@ INDI
+1 _UID DWknNQGphY3HhoyGSp2wv3t+66GI
+1 NAME Галина Иннокентьевна /Сопова/
+2 GIVN Галина Иннокентьевна
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMC @F3@
+1 DEAT Y
+0 @I11@ INDI
+1 _UID DWknNQHO+0aCu5bxuHnuPBSAGgfU
+1 NAME Владимир Иннокентьевич /Сопов/
+2 GIVN Владимир Иннокентьевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F3@
+1 DEAT Y
+0 @I12@ INDI
+1 _UID DWknNQEdSS/udTHzA7nhaAl/CNJO
+1 NAME Юрий Иннокентьевич /Сопов/
+2 GIVN Юрий Иннокентьевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F3@
+1 DEAT Y
+0 @I13@ INDI
+1 _UID DWknNQG4El9xKyoYif2shUvmi73P
+1 NAME Сергей Иннокентьевич /Сопов/
+2 GIVN Сергей Иннокентьевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F3@
+1 DEAT Y
+1 FAMS @F5@
+0 @I14@ INDI
+1 _UID DWknNQEPlaSeiel2O8jsjbLxQq61
+1 NAME Людмила Иннокентьевна /Сопова/
+2 GIVN Людмила Иннокентьевна
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMC @F3@
+1 DEAT Y
+1 FAMS @F6@
+0 @I15@ INDI
+1 _UID DWknNQG89nrlTv7jWAmOc+jgjX+s
+1 NAME Елена Анатольевна /Сопова/
+2 GIVN Елена Анатольевна
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMC @F4@
+1 DEAT Y
+0 @I16@ INDI
+1 _UID DWknNQGLpYA5Z3cFykd4yjvOYFWh
+1 NAME Наталья Анатольевна /Сопова/
+2 GIVN Наталья Анатольевна
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMC @F4@
+0 @I17@ INDI
+1 _UID DWknNQFYSzpxxX645dwsJcsKGwAt
+1 NAME Ольга Анатольевна /Сопова/
+2 GIVN Ольга Анатольевна
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMC @F4@
+0 @I18@ INDI
+1 _UID DWknNQGKuuFisCY0SI3WCRNijEb3
+1 NAME Ирина Анатольевна /Сопова/
+2 GIVN Ирина Анатольевна
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMC @F4@
+0 @I19@ INDI
+1 _UID DWknNQFmEs5jpK2BWYRP6yg0OOYB
+1 NAME Петр Тимофеевич /Сопов/
+2 GIVN Петр Тимофеевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F1@
+1 DEAT Y
+1 FAMS @F7@
+0 @I20@ INDI
+1 _UID DWknNQH58YOwJntHkHCk8Bx8JXvL
+1 NAME Мария /Сопова/
+2 GIVN Мария
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 DEAT Y
+1 FAMS @F7@
+0 @I21@ INDI
+1 _UID DWknNQFTNpnllmefP3pdL65VqlCi
+1 NAME Федор Петрович /Сопов/
+2 GIVN Федор Петрович
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F7@
+1 DEAT Y
+0 @I22@ INDI
+1 _UID DWknNQGo1J1wbGjjcx7x9mo+vU8n
+1 NAME Майя Петровна /Сопова/
+2 GIVN Майя Петровна
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMC @F7@
+1 DEAT Y
+0 @I23@ INDI
+1 _UID DWknNQFmDLABB90sCI1bFUCjJ9yX
+1 NAME Мария Тимофеевна /Сопова/
+2 GIVN Мария Тимофеевна
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMC @F1@
+1 DEAT Y
+0 @I24@ INDI
+1 _UID DWknNQG0pw8tc/hocWTX3SS/6fHE
+1 NAME Александра Тимофеевна /Сопова/
+2 GIVN Александра Тимофеевна
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMC @F1@
+0 @I25@ INDI
+1 _UID DWknNQG90v2V1LYNNzS+vuOhr7S9
+1 NAME Андрей Тимофеевич /Сопов/
+2 GIVN Андрей Тимофеевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F1@
+1 DEAT Y
+1 FAMS @F8@
+0 @I26@ INDI
+1 _UID DWknNQFHxR07VRQxWZFuR8MyaeEu
+1 NAME Полина Тимофеевна /Сопова/
+2 GIVN Полина Тимофеевна
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMC @F1@
+1 DEAT Y
+0 @I27@ INDI
+1 _UID DWknNQFn+YuTIGaQQwaDNNCf+CCu
+1 NAME Ольга Тимофеевна /Сопова/
+2 GIVN Ольга Тимофеевна
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMC @F1@
+1 DEAT Y
+0 @I28@ INDI
+1 _UID DWknNQEG0MCBiEWuT1tY1Xw7EU23
+1 NAME Григорий Тимофеевич /Сопов/
+2 GIVN Григорий Тимофеевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F1@
+1 DEAT Y
+0 @I29@ INDI
+1 _UID DWknNQHa8yVnCwqd95CBC0Dz4fc3
+1 NAME Василий Тимофеевич /Сопов/
+2 GIVN Василий Тимофеевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F1@
+1 DEAT Y
+1 FAMS @F9@
+0 @I30@ INDI
+1 _UID DWknNQGbIUXJS/9PrRc2g3H2I65G
+1 NAME Федор Тимофеевич /Сопов/
+2 GIVN Федор Тимофеевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F1@
+1 DEAT Y
+0 @I31@ INDI
+1 _UID DWknNQFvs1YOCfg/BX178gxdRpuv
+1 NAME Юрий Александрович /Сопов/
+2 GIVN Юрий Александрович
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 BIRT
+2 DATE 8 JUN 1954
+2 PLAC Холмск
+1 FAMC @F12@
+1 FAMS @F10@
+1 FAMS @F11@
+0 @I32@ INDI
+1 _UID DWknNQHzkHyqKx/neUOjVTs7sF9l
+1 NAME Александр Тимофеевич /Сопов/
+2 GIVN Александр Тимофеевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 BIRT
+2 DATE 8 JUL 1920
+1 FAMC @F1@
+1 DEAT
+2 DATE 18 AUG 2001
+1 FAMS @F12@
+0 @I33@ INDI
+1 _UID DWknNQGfsT748VJOrDwzjKGlFSye
+1 NAME Фёдор Сильвесторович /Сопов/
+2 GIVN Фёдор Сильвесторович
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F17@
+1 DEAT Y
+1 FAMS @F13@
+0 @I34@ INDI
+1 _UID DWknNQHvfOyN/uFpFz8GLG1an46j
+1 NAME Елена Юрьевна /Сопова/
+2 GIVN Елена Юрьевна
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 BIRT
+2 DATE 23 DEC 1979
+2 PLAC Нижневартовск
+1 FAMC @F11@
+1 CHR
+2 DATE JUL 1980
+2 PLAC Стерлитамак
+1 BAPM
+2 DATE AUG 2002
+2 PLAC Красноярск
+1 RESI
+2 EMAIL elena@sopova.com
+1 FAMS @F14@
+0 @I35@ INDI
+1 _UID DWknNQF48F2z/3tsp/pLBSPn3IIc
+1 NAME Анна Леонидовна /Сопова/
+2 GIVN Анна Леонидовна
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMC @F19@
+0 @I36@ INDI
+1 _UID DWknNQFTsJzr0irPveOj9F8nBzNT
+1 NAME Валентин Иннокентьевич /Сопов/
+2 GIVN Валентин Иннокентьевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F3@
+1 DEAT
+2 PLAC Белогорск
+1 FAMS @F15@
+0 @I37@ INDI
+1 _UID DWknNQGlKEV0ZCZyX92iqvi5oIgg
+1 NAME Наталия Васильевна /Зайцева/
+2 GIVN Наталия Васильевна
+2 SURN Зайцева
+2 _MARNM Сопова
+1 SEX F
+1 BIRT
+2 DATE 27 JAN 1955
+2 PLAC Стерлитамак
+1 FAMC @F18@
+1 FAMS @F11@
+1 SOUR @S4@
+2 DATA
+3 TEXT Наталия Сопова (Зайцева)
+4 CONT Рождение: 27 янв 1955
+4 CONT Супруг(-а): <> Сопов
+4 CONT Дети: <> Сопова, <> Сопов
+0 @I38@ INDI
+1 _UID DWknNQHBb5kAiog289a3pSyo+9lf
+1 NAME Олег Александрович /Сопов/
+2 GIVN Олег Александрович
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 BIRT
+2 DATE 11 JUL 1947
+2 PLAC Чехов
+1 FAMC @F12@
+0 @I39@ INDI
+1 _UID DWknNQG05TuPZIg482O+1wBhAakm
+1 NAME Александр Юрьевич /Сопов/
+2 GIVN Александр Юрьевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 BIRT
+2 DATE 2 JUN 1984
+2 PLAC Нижневартовск
+1 FAMC @F11@
+1 RESI
+2 EMAIL alex@sopov.ru
+1 FAMS @F16@
+0 @I40@ INDI
+1 _UID DWknNQHnbBR4ClKBvpAXPVJ9Z1lX
+1 NAME Сильвестер /Сопов/
+2 GIVN Сильвестер
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 BIRT
+2 PLAC Архангельск
+1 FAMC @F50@
+1 DEAT Y
+1 FAMS @F17@
+0 @I41@ INDI
+1 _UID DWknNQFh/pi6XbXRZbLM2hG0ckp6
+1 NAME Константин Валентинович /Сопов/
+2 GIVN Константин Валентинович
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F15@
+0 @I42@ INDI
+1 _UID DWknNQFaLcFbJXvErYlv2gBuj32n
+1 NAME Альбина Александровна /Сопова/
+2 GIVN Альбина Александровна
+2 SURN Сопова
+2 _MARNM Маркелова
+1 SEX F
+1 BIRT
+2 DATE 15 MAY 1946
+2 PLAC Белогорск
+1 FAMC @F12@
+0 @I43@ INDI
+1 _UID DWknNQFOFlk+cNVIH9meWoz7thLS
+1 NAME Павел Тимофеевич /Сопов/
+2 GIVN Павел Тимофеевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 BIRT
+2 DATE 1 SEP 1925
+1 FAMC @F1@
+1 DEAT
+2 DATE 5 FEB 2009
+1 BURI
+2 PLAC Кладбище С. Панциревка Инзенский Район (Барыш)
+1 SOUR @S5@
+2 PAGE https://www.myheritage.com/research/collection-10982/%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F-%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80-%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D1%85-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B5%D0%B9-1919-2
+2 DATA
+3 TEXT Павел Сопов (Тимофеевич)Пол: мужчинаРождение: 1 сен 1925Смерть: 5 фев 2
+4 CONC 009Захоронение: Кладбище С. Панциревка Инзенский Район (Барыш)Отец: Ти
+4 CONC мофей СоповИсточник: View the original record
+0 @I44@ INDI
+1 _UID DWknNQEaU3Pmac5dHU/wKP37LruF
+1 NAME Владислав Юрьевич /Сопов/
+2 GIVN Владислав Юрьевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 BIRT
+2 DATE 7 MAR 1977
+2 PLAC Нижневартовск
+1 FAMC @F10@
+0 @I45@ INDI
+1 _UID DWknNQFbRl7p57ZAxRk+WCd2cfVW
+1 NAME Виктор Васильевич /Зайцев/
+2 GIVN Виктор Васильевич
+2 SURN Зайцев
+2 _MARNM Зайцев
+1 SEX M
+1 BIRT
+2 DATE 21 JAN 1949
+2 PLAC Челябинск
+1 FAMC @F18@
+1 DEAT Y
+0 @I46@ INDI
+1 _UID DWknNQHZHcrufM0rwU/fpCuN02Q3
+1 NAME Василий Фёдорович /Зайцев/
+2 GIVN Василий Фёдорович
+2 SURN Зайцев
+2 _MARNM Зайцев
+1 SEX M
+1 BIRT
+2 DATE 24 APR 1924
+2 PLAC Шмаковское сельское поселение (Смоленская область), Погуляевка
+1 FAMC @F71@
+1 DEAT
+2 DATE 16 OCT 1988
+2 PLAC Стерлитамак
+2 CAUS Рак
+1 FAMS @F18@
+0 @I47@ INDI
+1 _UID DWknNQFp3Jfh4L/8YOFW7lFGYBgV
+1 NAME Лидия Терентьевна /Троценко/
+2 GIVN Лидия Терентьевна
+2 SURN Троценко
+2 _MARNM Троценко
+1 SEX F
+1 BIRT
+2 DATE 11 SEP 1924
+2 PLAC Ukraine, Kharkiv Oblast, Korotich
+1 FAMC @F68@
+1 DEAT
+2 DATE 29 APR 2011
+2 PLAC Красноярский Край, Шарыпово
+1 FAMS @F18@
+0 @I48@ INDI
+1 _UID DWknNQFFB7TKWauQQAhzmkpZ0Kvl
+1 NAME Леонид Валентинович /Сопов/
+2 GIVN Леонид Валентинович
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F15@
+1 FAMS @F19@
+0 @I49@ INDI
+1 _UID DWknNQHEFtEESSsu47f+IjrxpY76
+1 NAME Леонид Юрьевич /Сопов/
+2 GIVN Леонид Юрьевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 RELI Христианство
+1 BIRT
+2 DATE 9 FEB 1982
+2 PLAC Нижневартовск
+1 FAMC @F11@
+1 EVEN
+2 TYPE Language spoken
+1 RESI
+2 PLAC Сербия
+2 EMAIL leonid@sopov.org
+1 FAMS @F20@
+0 @I50@ INDI
+1 _UID DWknNQF62UcawGdEpLB1ZhL9mcTU
+1 NAME Зулиха Тагировна /Гилятдезинова/
+2 GIVN Зулиха Тагировна
+2 SURN Гилятдезинова
+2 _MARNM Сопова
+1 SEX F
+1 FAMS @F10@
+0 @I51@ INDI
+1 _UID DWknNQHwklCcXy3b5TkVS+NvrCWb
+1 NAME Антонина Дмитриевна /Дубровская/
+2 GIVN Антонина Дмитриевна
+2 SURN Дубровская
+2 _MARNM Сопова
+1 SEX F
+1 BIRT
+2 DATE 4 MAR 1924
+1 DEAT
+2 DATE 1994
+1 FAMS @F12@
+0 @I52@ INDI
+1 _UID DWknNQGdfFxJJYfD4SBsIn8PJGSv
+1 NAME Анна Эдуардовна /Гейнц/
+2 GIVN Анна Эдуардовна
+2 SURN Гейнц
+2 _MARNM Сопова
+1 SEX F
+1 BIRT
+2 DATE 12 JAN 1983
+2 PLAC Тубинск
+1 FAMC @F21@
+1 RESI
+2 EMAIL anna@sopova.com
+1 FAMS @F20@
+0 @I53@ INDI
+1 _UID DWknNQE/uNctlKs31dWUV3soDrtc
+1 NAME Татьяна Николаевна /Куц/
+2 GIVN Татьяна Николаевна
+2 SURN Куц
+2 _MARNM Гейнц
+1 SEX F
+1 BIRT
+2 DATE 7 JUL 1960
+1 FAMC @F22@
+1 FAMS @F21@
+0 @I54@ INDI
+1 _UID DWknNQG6wHQGTIrmAFbBT2j4/i+Y
+1 NAME Эдуард Владимирович /Гейнц/
+2 GIVN Эдуард Владимирович
+2 SURN Гейнц
+2 _MARNM Гейнц
+1 SEX M
+1 BIRT
+2 DATE 8 MAR 1961
+1 FAMC @F23@
+1 FAMS @F21@
+0 @I55@ INDI
+1 _UID DWknNQHk/+L3VdRtgr5OLxg50lL4
+1 NAME Раиса Ивановна /Сидорова/
+2 GIVN Раиса Ивановна
+2 SURN Сидорова
+2 _MARNM Куц
+1 SEX F
+1 FAMC @F42@
+1 FAMS @F22@
+0 @I56@ INDI
+1 _UID DWknNQFAIFSWrSkaBY3Uws01LMOM
+1 NAME Владимир Давыдович /Гейнц/
+2 GIVN Владимир Давыдович
+2 SURN Гейнц
+2 _MARNM Гейнц
+1 SEX M
+1 BIRT
+2 DATE 3 JUN 1942
+1 FAMC @F32@
+1 DEAT
+2 DATE 26 JUN 2025
+1 FAMS @F23@
+1 FAMS @F24@
+0 @I57@ INDI
+1 _UID DWknNQFassxqu7hl1pA3V+4bIBC/
+1 NAME Вера Ивановна /Миллер/
+2 GIVN Вера Ивановна
+2 SURN Миллер
+2 _MARNM Гейнц
+1 SEX F
+1 BIRT
+2 DATE (16 JUN )
+1 FAMC @F38@
+1 FAMS @F23@
+0 @I58@ INDI
+1 _UID DWknNQHZD2pj7TBb65wnQjyQhB1k
+1 NAME Николай Прокопьевич /Куц/
+2 GIVN Николай Прокопьевич
+2 _MARNM Куц
+1 SEX M
+1 FAMC @F75@
+1 DEAT Y
+1 FAMS @F22@
+0 @I59@ INDI
+1 _UID DWknNQEq6LSePg1rWyGxQUGkd/uB
+1 NAME Елена Эдуардовна /Гейнц/
+2 GIVN Елена Эдуардовна
+2 SURN Гейнц
+2 _MARNM Гейнц
+1 SEX F
+1 BIRT
+2 DATE 19 JUN 1986
+1 FAMC @F21@
+1 FAMS @F25@
+0 @I60@ INDI
+1 _UID DWknNQE1oRoSEviuqO8jmPdt/D65
+1 NAME Юлия Викторовна /Гейнц/
+2 GIVN Юлия Викторовна
+2 SURN Гейнц
+2 _MARNM Жорова
+1 SEX F
+1 BIRT
+2 DATE 18 SEP 1983
+1 FAMC @F27@
+1 FAMS @F26@
+0 @I61@ INDI
+1 _UID DWknNQGesq5MjQc+elhTV2M5wsaI
+1 NAME Виктор Владимирович /Гейнц/
+2 GIVN Виктор Владимирович
+2 SURN Гейнц
+2 _MARNM Гейнц
+1 SEX M
+1 FAMC @F23@
+1 FAMS @F27@
+0 @I62@ INDI
+1 _UID DWknNQFtg8jaMBY4g5YRe7gqJ/cq
+1 NAME Татьяна Владимировна /Гейнц/
+2 GIVN Татьяна Владимировна
+2 SURN Гейнц
+2 _MARNM Садовская
+1 SEX F
+1 BIRT
+2 DATE 5 JUL 1966
+1 FAMC @F23@
+1 FAMS @F28@
+0 @I63@ INDI
+1 _UID DWknNQFLWhXR1NfQJFFn8ctke8hf
+1 NAME Наталья Робертовна /Целлер/
+2 GIVN Наталья Робертовна
+2 SURN Целлер
+2 _MARNM Гейнц
+1 SEX F
+1 BIRT
+2 DATE (13 NOV )
+1 FAMC @F47@
+1 FAMS @F27@
+0 @I64@ INDI
+1 _UID DWknNQGqhiGcCFHaurjohds9pJKo
+1 NAME Ольга Викторовна /Гейнц/
+2 GIVN Ольга Викторовна
+2 SURN Гейнц
+2 _MARNM Протапопова
+1 SEX F
+1 BIRT
+2 DATE 29 JUL 1986
+1 FAMC @F27@
+1 FAMS @F29@
+0 @I65@ INDI
+1 _UID DWknNQFoeqijakRjBe442k/+UvuZ
+1 NAME Юрий /Садовский/
+2 GIVN Юрий
+2 SURN Садовский
+2 _MARNM Садовский
+1 SEX M
+1 DEAT Y
+1 FAMS @F28@
+0 @I66@ INDI
+1 _UID DWknNQGc7Hweh0S+qvz5ljyevKou
+1 NAME Ирина Юрьевна /Садовская/
+2 GIVN Ирина Юрьевна
+2 SURN Садовская
+2 _MARNM Садовская
+1 SEX F
+1 BIRT
+2 DATE 26 JUN 1987
+1 FAMC @F28@
+0 @I67@ INDI
+1 _UID DWknNQHb3e1CHHmQb+irgmGVmPPh
+1 NAME Наталия Николаевна /Куц/
+2 GIVN Наталия Николаевна
+2 SURN Куц
+2 _MARNM Черевко
+1 SEX F
+1 BIRT
+2 DATE (5 AUG )
+1 FAMC @F22@
+1 FAMS @F30@
+0 @I68@ INDI
+1 _UID DWknNQHrZT8Ug4KukbCpW/kHA81e
+1 NAME Евгения Юрьевна /Садовская/
+2 GIVN Евгения Юрьевна
+2 SURN Садовская
+2 _MARNM Потрубач
+1 SEX F
+1 BIRT
+2 DATE 21 JAN 1992
+1 FAMC @F28@
+0 @I69@ INDI
+1 _UID DWknNQGmO2iPpfPYQolZ2oZnlvOB
+1 NAME Анатолий /Черевко/
+2 GIVN Анатолий
+2 SURN Черевко
+2 _MARNM Черевко
+1 SEX M
+1 FAMS @F30@
+0 @I70@ INDI
+1 _UID DWknNQGEGsHu7naC4XTmbbuyPkBE
+1 NAME Михаил /Попков/
+2 GIVN Михаил
+2 SURN Попков
+2 _MARNM Попков
+1 SEX M
+1 FAMS @F31@
+0 @I71@ INDI
+1 _UID DWknNQHyRqToDkccEBkS3kUlzK9G
+1 NAME Елена Анатольевна /Черевко/
+2 GIVN Елена Анатольевна
+2 SURN Черевко
+2 _MARNM Попкова
+1 SEX F
+1 FAMC @F30@
+1 FAMS @F31@
+0 @I72@ INDI
+1 _UID DWknNQHT8LvZLjeQ2Wn5IWJqXQI3
+1 NAME Артём Михайлович /Попков/
+2 GIVN Артём Михайлович
+2 SURN Попков
+2 _MARNM Попков
+1 SEX M
+1 BIRT
+2 DATE (16 NOV )
+1 FAMC @F31@
+0 @I73@ INDI
+1 _UID DWknNQEfkJJWJ+nkoPeXx3SelI5T
+1 NAME Давыд /Гейнц/
+2 GIVN Давыд
+2 SURN Гейнц
+2 _MARNM Гейнц
+1 SEX M
+1 DEAT Y
+1 FAMS @F32@
+0 @I74@ INDI
+1 _UID DWknNQFL/FFr63+ENobr4dvjd2Hx
+1 NAME Сергей Михайлович /Попков/
+2 GIVN Сергей Михайлович
+2 SURN Попков
+2 _MARNM Попков
+1 SEX M
+1 FAMC @F31@
+0 @I75@ INDI
+1 _UID DWknNQHVqL3pKNUno7XH3Ilm4l0R
+1 NAME Фрида Давыдовна /Гейнц/
+2 GIVN Фрида Давыдовна
+2 SURN Гейнц
+2 _MARNM Шван
+1 SEX F
+1 BIRT
+2 DATE 17 MAY 1932
+1 FAMC @F32@
+1 DEAT
+2 DATE 24 JAN 2026
+1 FAMS @F33@
+0 @I76@ INDI
+1 _UID DWknNQEv+nJk04/bubIzsDctE1bN
+1 NAME Владимир Александрович /Шван/
+2 GIVN Владимир Александрович
+2 SURN Шван
+2 _MARNM Шван
+1 SEX M
+1 FAMC @F33@
+0 @I77@ INDI
+1 _UID DWknNQFYK3nS60M9b7ojVoHT8fQM
+1 NAME Александр /Шван/
+2 GIVN Александр
+2 SURN Шван
+2 _MARNM Шван
+1 SEX M
+1 DEAT Y
+1 FAMS @F33@
+0 @I78@ INDI
+1 _UID DWknNQGVHRAIuO/wKZfyfF2gwtDQ
+1 NAME Анна /Шван/
+2 GIVN Анна
+2 SURN Шван
+2 _MARNM Саннэ
+1 SEX F
+1 BIRT
+2 DATE 13 APR 1986
+1 FAMC @F34@
+1 FAMS @F74@
+0 @I79@ INDI
+1 _UID DWknNQH6vvLtUyx77+bGs2d4MMkk
+1 NAME Мария Александровна /Шван/
+2 GIVN Мария Александровна
+2 SURN Шван
+2 _MARNM Шван
+1 SEX F
+1 FAMC @F33@
+1 FAMS @F34@
+0 @I80@ INDI
+1 _UID DWknNQGtO/UxBCtZ5LWpcuj+fwCv
+1 NAME Константин Александрович /Шван/
+2 GIVN Константин Александрович
+2 SURN Шван
+2 _MARNM Шван
+1 SEX M
+1 FAMC @F33@
+1 FAMS @F35@
+1 FAMS @F36@
+0 @I81@ INDI
+1 _UID DWknNQHvDBnhjuSeXH/Nd1PE/0uR
+1 NAME Елена /Шван/
+2 GIVN Елена
+2 _MARNM Шван
+1 SEX F
+1 FAMS @F35@
+0 @I82@ INDI
+1 _UID DWknNQGxOnetD91bwql+FGVqn3t5
+1 NAME Самира /Шван/
+2 GIVN Самира
+2 _MARNM Шван
+1 SEX F
+1 FAMS @F36@
+0 @I83@ INDI
+1 _UID DWknNQH5QBsvxOREKLesm3Srr0N8
+1 NAME Андрей Константинович /Шван/
+2 GIVN Андрей Константинович
+2 SURN Шван
+2 _MARNM Шван
+1 SEX M
+1 BIRT
+2 DATE 18 JUN 1989
+1 FAMC @F35@
+0 @I84@ INDI
+1 _UID DWknNQFfPiuN2XIpIXBubu9LLizT
+1 NAME Екатерина Константиновна /Шван/
+2 GIVN Екатерина Константиновна
+2 SURN Шван
+2 _MARNM Новикова
+1 SEX F
+1 BIRT
+2 DATE 15 AUG 1986
+1 FAMC @F35@
+0 @I85@ INDI
+1 _UID DWknNQHQ/PFOcG3Y1oPujvz82JrK
+1 NAME Валентина Владимировна /Гейнц/
+2 GIVN Валентина Владимировна
+2 SURN Гейнц
+2 _MARNM Гейнц
+1 SEX F
+1 FAMC @F24@
+0 @I86@ INDI
+1 _UID DWknNQFc/iJ7N1JvshyPZEmf/oir
+1 NAME Виктора Ивановна /Миллер/
+2 GIVN Виктора Ивановна
+2 SURN Миллер
+2 _MARNM Кемпф
+1 SEX F
+1 FAMC @F38@
+1 FAMS @F37@
+0 @I87@ INDI
+1 _UID DWknNQE8xg0gng9SENt/7zVLVWiG
+1 NAME Иван /Миллер/
+2 GIVN Иван
+2 SURN Миллер
+2 _MARNM Миллер
+1 SEX M
+1 FAMS @F38@
+0 @I88@ INDI
+1 _UID DWknNQG/Yswqn9ijOZ4t05U0EmT6
+1 NAME Виктор Иванович /Миллер/
+2 GIVN Виктор Иванович
+2 SURN Миллер
+2 _MARNM Миллер
+1 SEX M
+1 FAMC @F38@
+1 FAMS @F39@
+0 @I89@ INDI
+1 _UID DWknNQGfsQ2Ajpz7tE0DRSIa7GSP
+1 NAME Иван Викторович /Миллер/
+2 GIVN Иван Викторович
+2 SURN Миллер
+2 _MARNM Миллер
+1 SEX M
+1 FAMC @F39@
+1 FAMS @F40@
+0 @I90@ INDI
+1 _UID DWknNQFDZBXSdua6lQiBeX9QeBRQ
+1 NAME Мария Викторовна /Миллер/
+2 GIVN Мария Викторовна
+2 SURN Миллер
+2 _MARNM Миллер
+1 SEX F
+1 FAMC @F39@
+0 @I91@ INDI
+1 _UID DWknNQGsEX0dzAzjB9K1XezBrMkE
+1 NAME Анна Викторовна /Миллер/
+2 GIVN Анна Викторовна
+2 SURN Миллер
+2 _MARNM Кострова
+1 SEX F
+1 FAMC @F39@
+1 FAMS @F41@
+0 @I92@ INDI
+1 _UID DWknNQH71eLvmRSZ1UoMdacHB9ci
+1 NAME Марина /Кострова/
+2 GIVN Марина
+2 SURN Кострова
+2 _MARNM Кострова
+1 SEX F
+1 FAMC @F41@
+0 @I93@ INDI
+1 _UID DWknNQHt9N2h05ImLPNmOaE025v3
+1 NAME Кристина /Кострова/
+2 GIVN Кристина
+2 SURN Кострова
+2 _MARNM Кострова
+1 SEX F
+1 FAMC @F41@
+0 @I94@ INDI
+1 _UID DWknNQHnShyxZ391CzQXsGfzDo/K
+1 NAME Елена Ивановна /Миллер/
+2 GIVN Елена Ивановна
+2 SURN Миллер
+2 _MARNM Миллер
+1 SEX F
+1 FAMC @F40@
+0 @I95@ INDI
+1 _UID DWknNQGe5vlrtonYrMq79DPipROd
+1 NAME Виктория Ивановна /Миллер/
+2 GIVN Виктория Ивановна
+2 SURN Миллер
+2 _MARNM Миллер
+1 SEX F
+1 FAMC @F40@
+0 @I96@ INDI
+1 _UID DWknNQGb98B9NlQMyMiISwg/DaQu
+1 NAME Иван Иванович /Миллер/
+2 GIVN Иван Иванович
+2 SURN Миллер
+2 _MARNM Миллер
+1 SEX M
+1 FAMC @F40@
+0 @I97@ INDI
+1 _UID DWknNQHMqZN8/UV3takdNhiNRPIC
+1 NAME Иван /Сидоров/
+2 GIVN Иван
+2 _MARNM Сидоров
+1 SEX M
+1 DEAT Y
+1 FAMS @F42@
+0 @I98@ INDI
+1 _UID DWknNQGVh0NjNUU9CsEBVA4vLCH6
+1 NAME Нелли Ивановна /Сидорова/
+2 GIVN Нелли Ивановна
+2 SURN Сидорова
+2 _MARNM Муравьёва
+1 SEX F
+1 BIRT
+2 DATE (6 SEP )
+1 FAMC @F42@
+1 FAMS @F43@
+0 @I99@ INDI
+1 _UID DWknNQGyaTVWFAH9YcN9tFnlG5EA
+1 NAME Людмила Владимировна /Романченко (Муравьёва)/
+2 GIVN Людмила Владимировна
+2 SURN Романченко (Муравьёва)
+2 _MARNM Романченко
+1 SEX F
+1 FAMC @F43@
+1 FAMS @F44@
+0 @I100@ INDI
+1 _UID DWknNQG55VCebl9t+FTlZ78GJZDl
+1 NAME Михаил //
+2 GIVN Михаил
+1 SEX M
+1 FAMS @F45@
+0 @I101@ INDI
+1 _UID DWknNQHD+AvdPZbbvbMUQy+tEPet
+1 NAME Владимир /Муравьёв/
+2 GIVN Владимир
+2 SURN Муравьёв
+2 _MARNM Муравьёв
+1 SEX M
+1 FAMS @F43@
+0 @I102@ INDI
+1 _UID DWknNQHm5ssSF4urYV00FOqJTbne
+1 NAME Лариса Владимировна /Муравьёва/
+2 GIVN Лариса Владимировна
+2 SURN Муравьёва
+2 _MARNM Муравьёва
+1 SEX F
+1 FAMC @F43@
+1 FAMS @F45@
+0 @I103@ INDI
+1 _UID DWknNQHpA4sevnNhQ3yIXtzyncCF
+1 NAME Александр Михайлович //
+2 GIVN Александр Михайлович
+1 SEX M
+1 FAMC @F45@
+0 @I104@ INDI
+1 _UID DWknNQGQKXtgMu3asQZXQA33Y2Pz
+1 NAME Роман /Романченко/
+2 GIVN Роман
+2 SURN Романченко
+2 _MARNM Романченко
+1 SEX M
+1 FAMC @F44@
+0 @I105@ INDI
+1 _UID DWknNQFypJ+K0nhEC5eYL0I3fEKy
+1 NAME Ольга /Романченко/
+2 GIVN Ольга
+2 SURN Романченко
+2 _MARNM Романченко
+1 SEX F
+1 FAMC @F44@
+0 @I106@ INDI
+1 _UID DWknNQHBPusEOcRcPTDJSTZbztEb
+1 NAME /Кемпф/
+2 SURN Кемпф
+2 _MARNM Кемпф
+1 SEX M
+1 FAMS @F37@
+0 @I107@ INDI
+1 _UID DWknNQGVJcquGdfHq11Jb4GlhPip
+1 NAME Андрей Александрович /Кемпф/
+2 GIVN Андрей Александрович
+2 SURN Кемпф
+2 _MARNM Кемпф
+1 SEX M
+1 FAMC @F46@
+0 @I108@ INDI
+1 _UID DWknNQHoea5pdcnRoOi0utrR+HSo
+1 NAME Иван Александрович /Кемпф/
+2 GIVN Иван Александрович
+2 SURN Кемпф
+2 _MARNM Кемпф
+1 SEX M
+1 FAMC @F46@
+0 @I109@ INDI
+1 _UID DWknNQG5zIWWojaFd/TsdUX0pMX3
+1 NAME Александр /Кемпф/
+2 GIVN Александр
+2 SURN Кемпф
+2 _MARNM Кемпф
+1 SEX M
+1 FAMC @F37@
+1 FAMS @F46@
+0 @I110@ INDI
+1 _UID DWknNQHV5+uSRukisPd99wVszdm+
+1 NAME Виктор /Кемпф/
+2 GIVN Виктор
+2 SURN Кемпф
+2 _MARNM Кемпф
+1 SEX M
+1 FAMC @F37@
+0 @I111@ INDI
+1 _UID DWknNQEYeS4b9w5tbHBPRVIW/AcX
+1 NAME Надежда /Кемпф/
+2 GIVN Надежда
+2 _MARNM Кемпф
+1 SEX F
+1 FAMS @F46@
+0 @I112@ INDI
+1 _UID DWknNQEuSckYSs16v0fPZcDw1nq9
+1 NAME Роберт /Целлер/
+2 GIVN Роберт
+2 SURN Целлер
+2 _MARNM Целлер
+1 SEX M
+1 BIRT
+2 DATE 1932
+2 PLAC Россия, Саратовская область, Бальцер
+1 FAMC @F59@
+1 DEAT
+2 DATE 2015
+2 PLAC Россия, Красноярский край, Краснотуранский район, с.Тубинск
+2 CAUS Естественная смерть/старость
+1 FAMS @F47@
+1 SOUR @S1@
+2 PAGE Роберт Целлер
+2 DATA
+3 TEXT Добавлено с помощью подтвеждения совпадения Smart Match
+1 SOUR @S2@
+2 PAGE https://www.myheritage.com/profile-OYYV6WTV572YDRBJUWJJ7LRENYF2CZQ-1500118/%D1%80%D0%BE%D0%B1%D0%B5%D1%80%D1%82-%D1%86%D0%B5%D0%BB%D0%BB%D0%B5%D1%80?lang=RU
+2 DATA
+3 TEXT Добавлено с помощью подтвеждения совпадения Smart Match
+0 @I113@ INDI
+1 _UID DWknNQHh2rr63mxtcuNfg0dQfA4U
+1 NAME Наталья /Целлер/
+2 GIVN Наталья
+2 _MARNM Целлер
+1 SEX F
+1 BIRT
+2 DATE 1931
+1 FAMS @F47@
+1 SOUR @S3@
+2 PAGE Наталия Целлер (Нус)
+2 DATA
+3 TEXT Добавлено с помощью подтвеждения совпадения Smart Match
+0 @I114@ INDI
+1 _UID DWknNQE0qCy+ty0JPWVvAvcu+CJR
+1 NAME Вера /Целлер/
+2 GIVN Вера
+2 _MARNM Целлер
+1 SEX F
+1 FAMS @F48@
+0 @I115@ INDI
+1 _UID DWknNQG9L8g2TaxgAYrJXZbCu+Du
+1 NAME Владимир Робертович /Целлер/
+2 GIVN Владимир Робертович
+2 SURN Целлер
+2 _MARNM Целлер
+1 SEX M
+1 FAMC @F47@
+1 FAMS @F49@
+0 @I116@ INDI
+1 _UID DWknNQHNjGM1eMAcZQm42aH01Gno
+1 NAME Виктор Викторович /Целлер/
+2 GIVN Виктор Викторович
+2 SURN Целлер
+2 _MARNM Целлер
+1 SEX M
+1 FAMC @F48@
+0 @I117@ INDI
+1 _UID DWknNQGaxIYYrrEjaYWi4MXlUT8B
+1 NAME Андрей Робертович /Целлер/
+2 GIVN Андрей Робертович
+2 SURN Целлер
+2 _MARNM Целлер
+1 SEX M
+1 FAMC @F47@
+0 @I118@ INDI
+1 _UID DWknNQF+SwNaF8/Kjqzdfzqo7jcR
+1 NAME Сергей Викторович /Целлер/
+2 GIVN Сергей Викторович
+2 SURN Целлер
+2 _MARNM Целлер
+1 SEX M
+1 FAMC @F48@
+0 @I119@ INDI
+1 _UID DWknNQETKbb/mJZPSBwNb7Ri3scM
+1 NAME Виктор Робертович /Целлер/
+2 GIVN Виктор Робертович
+2 SURN Целлер
+2 _MARNM Целлер
+1 SEX M
+1 FAMC @F47@
+1 FAMS @F48@
+0 @I120@ INDI
+1 _UID DWknNQHvKcULQGVcSbrFIuFSsRwz
+1 NAME Антон Викторович /Целлер/
+2 GIVN Антон Викторович
+2 SURN Целлер
+2 _MARNM Целлер
+1 SEX M
+1 FAMC @F48@
+0 @I121@ INDI
+1 _UID DWknNQGK67j+C2kf5uNIuZQTFKzz
+1 NAME Валентина /Целлер/
+2 GIVN Валентина
+2 _MARNM Целлер
+1 SEX F
+1 FAMS @F49@
+0 @I122@ INDI
+1 _UID DWknNQHcI4i1qetaVFJvMSzTwW4r
+1 NAME Елена Владимировна /Целлер/
+2 GIVN Елена Владимировна
+2 SURN Целлер
+2 _MARNM Целлер
+1 SEX F
+1 FAMC @F49@
+1 DEAT Y
+0 @I123@ INDI
+1 _UID DWknNQEKa0uepRTSL+eAeue7BU34
+1 NAME Юрий Владимирович /Целлер/
+2 GIVN Юрий Владимирович
+2 SURN Целлер
+2 _MARNM Целлер
+1 SEX M
+1 FAMC @F49@
+0 @I124@ INDI
+1 _UID DWknNQEmwaoT0oo0hho8S2oRPa/O
+1 NAME Лидия /Сопова/
+2 GIVN Лидия
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMS @F9@
+0 @I125@ INDI
+1 _UID DWknNQF2HPqjn1VqMvqmvzkjmlMd
+1 NAME Екатерина /Сопова/
+2 GIVN Екатерина
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMS @F8@
+0 @I126@ INDI
+1 _UID DWknNQEePoENCCoMI/4aqtldKBLI
+1 NAME Николай /Сопов/
+2 GIVN Николай
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F6@
+0 @I127@ INDI
+1 _UID DWknNQFwhuvDSQDcKDw8wuT4jvFi
+1 NAME Татьяна /Сопова/
+2 GIVN Татьяна
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMC @F6@
+0 @I128@ INDI
+1 _UID DWknNQHT6/w38lEa0mR2Gvnln3JP
+1 NAME Ольга Сергеевна /Сопова/
+2 GIVN Ольга Сергеевна
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMC @F5@
+0 @I129@ INDI
+1 _UID DWknNQHtE0PfD7OUPILDEmReByLK
+1 NAME Елена Сергеевна /Сопова/
+2 GIVN Елена Сергеевна
+2 SURN Сопова
+2 _MARNM Сопова
+1 SEX F
+1 FAMC @F5@
+0 @I130@ INDI
+1 _UID DWknNQE97n5ZEYUhlGg59+AeofS3
+1 NAME Неизвестный предок 1 /Сопов/
+2 GIVN Неизвестный предок 1
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F51@
+1 DEAT Y
+1 FAMS @F50@
+0 @I131@ INDI
+1 _UID DWknNQE6nWUDH9P5601oUbgSpiJD
+1 NAME Неизвестный предок /Сопов/
+2 GIVN Неизвестный предок
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 DEAT Y
+1 FAMS @F51@
+0 @I132@ INDI
+1 _UID DWknNQF5nQAIxc6GFsxWmaqxX53D
+1 NAME Неизвестный предок 2 /Сопов/
+2 GIVN Неизвестный предок 2
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F51@
+1 FAMS @F52@
+0 @I133@ INDI
+1 _UID DWknNQFxc5vpL97rmPizDhiJ4VlY
+1 NAME Николай Григорьевич /Сопов/
+2 GIVN Николай Григорьевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 FAMC @F52@
+1 DEAT Y
+1 FAMS @F53@
+0 @I134@ INDI
+1 _UID DWknNQFO9vV42+LPnp63nAOGJE3f
+1 NAME Юрий Николаевич /Сопов/
+2 GIVN Юрий Николаевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 BIRT
+2 DATE 19 APR 1938
+1 FAMC @F53@
+1 DEAT Y
+1 FAMS @F54@
+0 @I135@ INDI
+1 _UID DWknNQE6wCu3D9cJO6NMtLNC+qt1
+1 NAME Валентина Николаевна /Ковалёва/
+2 GIVN Валентина Николаевна
+2 SURN Ковалёва
+2 _MARNM Ковалёва
+1 SEX F
+1 BIRT
+2 DATE 1912
+1 DEAT Y
+1 FAMS @F53@
+0 @I136@ INDI
+1 _UID DWknNQGHIxhfOVxe+isvWX2QkOE8
+1 NAME Анатолий Иванович /Орешкин/
+2 GIVN Анатолий Иванович
+2 SURN Орешкин
+2 _MARNM Орешкин
+1 SEX M
+1 BIRT
+2 DATE 1 OCT 1946
+1 FAMS @F55@
+0 @I137@ INDI
+1 _UID DWknNQHT+nkIYSgzWWSzaJtvR7hb
+1 NAME Нина Николаевна /Сопова/
+2 GIVN Нина Николаевна
+2 SURN Сопова
+2 _MARNM Орешкина
+1 SEX F
+1 BIRT
+2 DATE 24 SEP 1946
+1 FAMC @F53@
+1 FAMS @F55@
+0 @I138@ INDI
+1 _UID DWknNQGjuwjJL3pmp0xbopqo+QxJ
+1 NAME Светлана Анатольевна /Орешкина (Орешкина)/
+2 GIVN Светлана Анатольевна
+2 SURN Орешкина (Орешкина)
+2 _MARNM Орешкина
+1 SEX F
+1 BIRT
+2 DATE 11 MAR 1975
+1 FAMC @F55@
+0 @I139@ INDI
+1 _UID DWknNQHhicnQd9LV86etlTKNr+43
+1 NAME Надежда Владимировна /Морозова/
+2 GIVN Надежда Владимировна
+2 SURN Морозова
+2 _MARNM Сопова
+1 SEX F
+1 BIRT
+2 DATE 25 JUL 1942
+1 FAMS @F54@
+0 @I140@ INDI
+1 _UID DWknNQHsZGpY22moqkrzlUvE0M7K
+1 NAME Владимир Андреевич /Сопов/
+2 GIVN Владимир Андреевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 BIRT
+2 DATE 5 NOV 1988
+1 FAMC @F56@
+0 @I141@ INDI
+1 _UID DWknNQEDsoTAmw3puG9CCgrhYoBb
+1 NAME Андрей Юрьевич /Сопов/
+2 GIVN Андрей Юрьевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 BIRT
+2 DATE 13 FEB 1964
+1 FAMC @F54@
+1 FAMS @F56@
+0 @I142@ INDI
+1 _UID DWknNQGGc3E5oYVFmZbnvm7IADnh
+1 NAME Александр Юрьевич /Сопов/
+2 GIVN Александр Юрьевич
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 BIRT
+2 DATE 2 JUN 1974
+1 FAMC @F54@
+1 FAMS @F57@
+0 @I143@ INDI
+1 _UID DWknNQHtOIza4zviJQJ1IMmG0Ono
+1 NAME Светлана Валентиновна /Добродуб/
+2 GIVN Светлана Валентиновна
+2 SURN Добродуб
+2 _MARNM Добродуб
+1 SEX F
+1 BIRT
+2 DATE 14 JUN 1963
+2 PLAC Ukraine, Kharkiv Oblast, Kharkiv
+1 FAMC @F61@
+1 FAMS @F58@
+1 FAMS @F57@
+1 SOUR @S4@
+2 PAGE https://www.myheritage.com/research/collection-40000/geni-world-family-tree?lang=RU&itemId=228164371&action=showRecord
+2 DATA
+3 TEXT Светлана Валентиновна Добродуб (Козлова)Пол: женщинаМать: Людмила Козл
+4 CONC ова (Синицина)Родитель: <> ПерсовСупруг(-а): <> СоповПредыдущая жена: <
+4 CONC > ДобродубРебенок: Артем Добродуб (Dobrodub)
+0 @I144@ INDI
+1 _UID DWknNQFkI2HO7ypZhN4eYdBKpO7k
+1 NAME Павел Леонидович /Сопов/
+2 GIVN Павел Леонидович
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 BIRT
+2 DATE 18 APR 2009
+2 PLAC Москва
+1 FAMC @F20@
+1 RESI
+2 EMAIL pavel@sopov.org
+0 @I145@ INDI
+1 _UID DWknNQHP+1i20AZ66rzQoCMgELK9
+1 NAME Пётр Леонидович /Сопов/
+2 GIVN Пётр Леонидович
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 BIRT
+2 DATE 30 NOV 2011
+2 PLAC Москва
+1 FAMC @F20@
+1 RESI
+2 EMAIL petr@sopov.org
+0 @I146@ INDI
+1 _UID DWknNQGUUSavQyunp1oVixCc4Eos
+1 NAME Симеон Леонидович /Сопов/
+2 GIVN Симеон Леонидович
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 BIRT
+2 DATE 21 SEP 2014
+2 PLAC Брест
+1 FAMC @F20@
+1 RESI
+2 EMAIL simeon@sopov.org
+0 @I147@ INDI
+1 _UID DWknNQHvFtstk7uwTlxdZUnAzqCT
+1 NAME Юлия /Харькова/
+2 GIVN Юлия
+2 SURN Харькова
+2 _MARNM Сопова
+1 SEX F
+1 BIRT
+2 DATE 25 SEP 1985
+2 PLAC Дудинка
+1 FAMS @F16@
+0 @I148@ INDI
+1 _UID DWknNQG5BNYrp13du5JjjeF8+KwM
+1 NAME Дмитрий Александрович /Сопов/
+2 GIVN Дмитрий Александрович
+2 SURN Сопов
+2 _MARNM Сопов
+1 SEX M
+1 BIRT
+2 DATE 22 SEP 2016
+1 FAMC @F16@
+0 @I149@ INDI
+1 _UID DWknNQEoM8Ae1HnhgrLs507oIE8V
+1 NAME Вадим /Шульц/
+2 GIVN Вадим
+2 SURN Шульц
+2 _MARNM Шульц
+1 SEX M
+1 FAMS @F25@
+0 @I150@ INDI
+1 _UID DWknNQGy93Bbs2WpkTky6sML+/UN
+1 NAME Юлиана /Шульц/
+2 GIVN Юлиана
+2 SURN Шульц
+2 _MARNM Шульц
+1 SEX F
+1 BIRT
+2 DATE 15 SEP 2018
+1 FAMC @F25@
+0 @I151@ INDI
+1 _UID DWknNQG6RVkjn42SDFpliBxGskbv
+1 NAME Вадим /Шульц/
+2 GIVN Вадим
+2 SURN Шульц
+2 _MARNM Шульц
+1 SEX M
+1 BIRT
+2 DATE 14 MAY 2022
+1 FAMC @F25@
+0 @I152@ INDI
+1 _UID DWknNQHauwyX+OmkN/1sqz0S3xgK
+1 NAME Генрих /Целлер/
+2 GIVN Генрих
+2 SURN Целлер
+2 _MARNM Целлер
+1 SEX M
+1 BIRT
+2 DATE 1907
+2 PLAC Россия, Саратовская область, с.Мессер
+1 FAMC @F62@
+1 DEAT
+2 DATE 1971
+2 PLAC Россия, Красноярский край, с.Новомариясово
+1 FAMS @F59@
+1 SOUR @S1@
+2 PAGE Генрих Целлер
+2 DATA
+3 TEXT Добвалено с помощью Smart Match
+0 @I153@ INDI
+1 _UID DWknNQF8VfrVrXaGY2NdCosn/xzA
+1 NAME Мария /Целлер/
+2 GIVN Мария
+2 _MARNM Целлер
+1 SEX F
+1 BIRT
+2 DATE 1901
+2 PLAC Россия, Саратовская область, с.Францозер
+1 FAMC @F65@
+1 EVEN
+2 TYPE Move
+2 DATE SEP 1941
+2 PLAC Россия, Красноярский регион, с.Николаевка
+1 EVEN
+2 TYPE Move
+2 DATE 1948
+2 PLAC Россия, Красноярский регион, Тёплый ключ
+1 DEAT Y
+1 FAMS @F59@
+1 SOUR @S1@
+2 PAGE Мария Целлер
+2 DATA
+3 TEXT Добвалено с помощью Smart Match
+0 @I154@ INDI
+1 _UID DWknNQGDSzZwDff2mbuZ4KHMrAfK
+1 NAME Владимир /Целлер/
+2 GIVN Владимир
+2 SURN Целлер
+2 _MARNM Целлер
+1 SEX M
+1 BIRT
+2 DATE 1935
+2 PLAC Россия, Саратовская область, Бальцер
+1 FAMC @F59@
+1 DEAT
+2 PLAC Россия, Красноярский край, Ширинский район, Ворота
+1 SOUR @S1@
+2 PAGE Владимир Целлер
+2 DATA
+3 TEXT Добвалено с помощью Smart Match
+0 @I155@ INDI
+1 _UID DWknNQFhgz04wzm3+J7x0Knp+4FP
+1 NAME Александр /Целлер/
+2 GIVN Александр
+2 SURN Целлер
+2 _MARNM Целлер
+1 SEX M
+1 BIRT
+2 DATE 1937
+2 PLAC Россия, Саратовская область, Бальцер
+1 FAMC @F59@
+1 DEAT
+2 DATE 2010
+2 PLAC Россия, Красноярский край, Ужур
+1 FAMS @F60@
+1 SOUR @S1@
+2 PAGE Александр Целлер
+2 DATA
+3 TEXT Добвалено с помощью Smart Match
+0 @I156@ INDI
+1 _UID DWknNQGbpVZ6n9rvX0d4lOOxVviS
+1 NAME Людмила /Синицина/
+2 GIVN Людмила
+2 SURN Синицина
+2 _MARNM Козлова
+1 SEX F
+1 BIRT
+2 DATE 13 MAY 1940
+2 PLAC Ukraine, Kharkiv Oblast, Kharkiv
+1 DEAT
+2 DATE 25 MAR 2008
+2 PLAC Ukraine, Kharkiv Oblast, Kharkiv
+1 BURI
+2 DATE 28 MAR 2008
+2 PLAC Ukraine, Kharkiv Oblast, Kharkiv
+1 FAMS @F61@
+1 SOUR @S4@
+2 PAGE https://www.myheritage.com/research/collection-40000/geni-world-family-tree?lang=RU&itemId=228164298&action=showRecord
+2 DATA
+3 TEXT Добвалено с помощью Record Match
+0 @I157@ INDI
+1 _UID DWknNQGc6oulBQ5DmZ0bAPMZayQW
+1 NAME Артём /Добродуб/
+2 GIVN Артём
+2 SURN Добродуб
+2 _MARNM Добродуб
+1 SEX M
+1 FAMC @F58@
+1 SOUR @S4@
+2 PAGE https://www.myheritage.com/research/collection-40000/geni-world-family-tree?lang=RU&itemId=423614039&action=showRecord
+2 DATA
+3 TEXT Добвалено с помощью Record Match
+0 @I159@ INDI
+1 _UID DWknNQHmwQEsweGvcmtMd6dFzJrp
+1 NAME Фридрих /Целлер/
+2 GIVN Фридрих
+2 SURN Целлер
+2 _MARNM Целлер
+1 SEX M
+1 DEAT
+2 DATE ABT 1941
+1 FAMS @F62@
+1 SOUR @S1@
+2 PAGE Фридрих Целлер
+2 DATA
+3 TEXT Добавлено посредством Person Discovery
+0 @I160@ INDI
+1 _UID DWknNQF4nHheDTYxeUpIWoBlkqPs
+1 NAME Мария /Целлер/
+2 GIVN Мария
+2 _MARNM Целлер
+1 SEX F
+1 DEAT Y
+1 FAMS @F62@
+1 SOUR @S1@
+2 PAGE Мария Целлер
+2 DATA
+3 TEXT Добавлено посредством Person Discovery
+0 @I161@ INDI
+1 _UID DWknNQE1Ztg/8uEXAi8pks+iZgQG
+1 NAME /Целлер/
+2 SURN Целлер
+2 _MARNM Целлер
+1 SEX M
+1 FAMC @F59@
+1 FAMS @F63@
+1 SOUR @S1@
+2 PAGE <Private> Целлер
+2 DATA
+3 TEXT Добавлено посредством Person Discovery
+0 @I162@ INDI
+1 _UID DWknNQFestE9kpIY47TBArGfviBF
+1 NAME /Целлер/
+2 SURN Целлер
+2 _MARNM Целлер
+1 SEX F
+1 FAMC @F59@
+1 FAMS @F64@
+1 SOUR @S1@
+2 PAGE <Private> Юшков (Целлер)
+2 DATA
+3 TEXT Добавлено посредством Person Discovery
+0 @I163@ INDI
+1 _UID DWknNQE3JK4lAWy8vgU34g6zvKEL
+1 NAME Яков //
+2 GIVN Яков
+1 SEX M
+1 DEAT Y
+1 FAMS @F65@
+1 SOUR @S1@
+2 PAGE Яков
+2 DATA
+3 TEXT Добавлено посредством Person Discovery
+0 @I164@ INDI
+1 _UID DWknNQHlE+ruv2tMmKIL2f8FGPaa
+1 NAME Эля /Браузман/
+2 GIVN Эля
+2 SURN Браузман
+2 _MARNM Целлер
+1 SEX F
+1 DEAT Y
+1 FAMS @F60@
+1 SOUR @S1@
+2 PAGE Эля Целлер (Браузман)
+2 DATA
+3 TEXT Добавлено посредством Person Discovery
+0 @I165@ INDI
+1 _UID DWknNQHWpPU9gWIFM+S1K7gSPaAY
+1 NAME Александр /Целлер/
+2 GIVN Александр
+2 SURN Целлер
+2 _MARNM Целлер
+1 SEX M
+1 BIRT
+2 DATE 1905
+1 FAMC @F62@
+1 EVEN
+2 TYPE Move
+2 DATE 15 FEB 1942
+2 PLAC Россия, Пермский край, Чердинский р-он, Бонюг
+1 DEAT
+2 DATE FEB 1943
+2 PLAC Россия, Пермь, Труд.армия
+2 CAUS Переохлаждение
+1 FAMS @F66@
+1 SOUR @S1@
+2 PAGE Александр Целлер
+2 DATA
+3 TEXT Добавлено посредством Person Discovery
+0 @I166@ INDI
+1 _UID DWknNQGKq05u+GMZMFgTnE2SZtok
+1 NAME Андрей /Целлер/
+2 GIVN Андрей
+2 SURN Целлер
+2 _MARNM Целлер
+1 SEX M
+1 BIRT
+2 DATE 12 JUN 1964
+2 PLAC Россия, Заринск, Стародрачёнино
+1 FAMC @F63@
+1 DEAT
+2 DATE 28 AUG 2010
+2 PLAC Россия, Алтайский край, Кытмановский район
+2 CAUS Самоубийство
+1 BURI
+2 PLAC Россия, Заринск
+1 SOUR @S1@
+2 PAGE Андрей Целлер
+2 DATA
+3 TEXT Добавлено посредством Person Discovery
+0 @I168@ INDI
+1 _UID DWknNQEdpTZGo45YgxYIaAePeqOV
+1 NAME Виталий /Юшков/
+2 GIVN Виталий
+2 SURN Юшков
+2 _MARNM Юшков
+1 SEX M
+1 BIRT
+2 DATE ABT 1936
+2 PLAC Россия, Красноярский край, Когунек
+1 DEAT
+2 PLAC Россия, Красноярский край, Когунек
+1 FAMS @F64@
+1 SOUR @S1@
+2 PAGE Виталий Юшков
+2 DATA
+3 TEXT Добавлено посредством Person Discovery
+0 @I169@ INDI
+1 _UID DWknNQFayepRIbTTWjvKybDirAEl
+1 NAME Эмилия /Лаубах/
+2 GIVN Эмилия
+2 SURN Лаубах
+2 _MARNM Целлер
+1 SEX F
+1 BIRT
+2 DATE 18 SEP 1904
+2 PLAC Россия, Саратовская область, Бальцер
+1 FAMC @F67@
+1 DEAT
+2 DATE 8 APR 1983
+2 PLAC Россия, Заринск, Стародрачёнино
+2 CAUS Естественная смерть/старость
+1 BURI
+2 PLAC Россия, Заринск, Стародрачёнино
+1 FAMS @F66@
+1 SOUR @S1@
+2 PAGE Эмилия Целлер (Лаубах)
+2 DATA
+3 TEXT Добавлено посредством Person Discovery
+0 @I170@ INDI
+1 _UID DWknNQHnlG9ImdVcTW2cl/UKRhks
+1 NAME Эмма /Целлер/
+2 GIVN Эмма
+2 SURN Целлер
+2 _MARNM Гричишкина
+1 SEX F
+1 BIRT
+2 DATE 18 OCT 1933
+2 PLAC Россия, Саратовская область, Бальцер
+1 FAMC @F66@
+1 DEAT
+2 DATE 10 APR 2014
+2 PLAC Россия, Алтайский край, Заринск
+2 CAUS Болезнь
+1 BURI
+2 PLAC Россия, Алтайский край, Заринск
+1 SOUR @S1@
+2 PAGE Эмма Гричишкина (Целлер)
+2 DATA
+3 TEXT Добавлено посредством Person Discovery
+0 @I171@ INDI
+1 _UID DWknNQESPiv4I5jC3lmc6XfJeN68
+1 NAME Яков /Лаубах/
+2 GIVN Яков
+2 SURN Лаубах
+2 _MARNM Лаубах
+1 SEX M
+1 DEAT Y
+1 FAMS @F67@
+1 SOUR @S1@
+2 PAGE Яков Лаубах
+2 DATA
+3 TEXT Добавлено посредством Person Discovery
+0 @I172@ INDI
+1 _UID DWknNQH9/hbEnMO5deWyDx9J3fcM
+1 NAME Терентий /Троценко/
+2 GIVN Терентий
+2 SURN Троценко
+2 _MARNM Троценко
+1 SEX M
+1 FAMC @F69@
+1 DEAT Y
+1 FAMS @F68@
+0 @I173@ INDI
+1 _UID DWknNQHmMfLMCVXGqJ1IcDrneD4d
+1 NAME Яков /Троценко/
+2 GIVN Яков
+2 SURN Троценко
+2 _MARNM Троценко
+1 SEX M
+1 DEAT Y
+1 FAMS @F69@
+0 @I174@ INDI
+1 _UID DWknNQEpqWhiaKRZ81gxIk+AFVMC
+1 NAME Анна /Теплякова/
+2 GIVN Анна
+2 SURN Теплякова
+2 _MARNM Троценко
+1 SEX F
+1 FAMC @F70@
+1 DEAT Y
+1 FAMS @F68@
+0 @I175@ INDI
+1 _UID DWknNQHZawNvdKQQ0CPtUIpgFqPB
+1 NAME Абрам /Тепляков/
+2 GIVN Абрам
+2 SURN Тепляков
+2 _MARNM Тепляков
+1 SEX M
+1 FAMS @F70@
+0 @I176@ INDI
+1 _UID DWknNQHK/flB+SF56FNxVsz2oBtW
+1 NAME Фёдор /Зайцев/
+2 GIVN Фёдор
+2 SURN Зайцев
+2 _MARNM Зайцев
+1 SEX M
+1 DEAT Y
+1 FAMS @F71@
+0 @I177@ INDI
+1 _UID DWknNQFT+QUNP0oRxhVGaxhXmoQS
+1 NAME Андрей /Троценко/
+2 GIVN Андрей
+2 SURN Троценко
+2 _MARNM Троценко
+1 SEX M
+1 BIRT
+2 DATE 1902
+1 FAMC @F69@
+1 DEAT
+2 DATE 28 FEB 1943
+1 FAMS @F72@
+0 @I178@ INDI
+1 _UID DWknNQHRWU15HefBrVmIzPMcnb4q
+1 NAME Ирина /Тимченко/
+2 GIVN Ирина
+2 SURN Тимченко
+2 _MARNM Тимченко
+1 SEX F
+1 BIRT
+2 DATE 1902
+1 DEAT Y
+1 FAMS @F72@
+0 @I179@ INDI
+1 _UID DWknNQF+EZVYkhP9IafbrEWWd60N
+1 NAME Константин /Жоров/
+2 GIVN Константин
+2 SURN Жоров
+2 _MARNM Жоров
+1 SEX M
+1 FAMS @F26@
+0 @I180@ INDI
+1 _UID DWknNQFv7stUi4ERnk1gdcgBHF/B
+1 NAME Ксения /Жорова/
+2 GIVN Ксения
+2 SURN Жорова
+2 _MARNM Жорова
+1 SEX F
+1 BIRT
+2 DATE 15 JUN 2011
+1 FAMC @F26@
+0 @I181@ INDI
+1 _UID DWknNQFM1eyygI5RXBGnQ8DOk4u+
+1 NAME Алексей /Протапопов/
+2 GIVN Алексей
+2 SURN Протапопов
+2 _MARNM Протапопов
+1 SEX M
+1 FAMS @F29@
+0 @I182@ INDI
+1 _UID DWknNQENRjyNi4GtHphXqzsMPTut
+1 NAME Максим /Попков/
+2 GIVN Максим
+2 SURN Попков
+2 _MARNM Попков
+1 SEX M
+1 BIRT
+2 DATE 14 MAR 2011
+1 FAMC @F31@
+0 @I183@ INDI
+1 _UID DWknNQFuY2FUlKDMK+v5DSrJjLVe
+1 NAME Мария /Зайцева/
+2 GIVN Мария
+2 _MARNM Зайцева
+1 SEX F
+1 FAMS @F71@
+0 @I187@ INDI
+1 _UID DWknNQGpXJDHfgxtqgF1LaMX5pFa
+1 NAME Надежда Федоровна /Зайцева/
+2 GIVN Надежда Федоровна
+2 SURN Зайцева
+1 SEX F
+1 FAMC @F71@
+1 DEAT Y
+1 FAMS @F73@
+0 @I188@ INDI
+1 _UID DWknNQFNbUmMzoUvL1DUKgvM7Zu/
+1 NAME Валентина //
+2 GIVN Валентина
+1 SEX F
+1 FAMC @F73@
+0 @I190@ INDI
+1 _UID DWknNQF3PTH0Tt/uyalbmrAlFJcI
+1 NAME Анна Андреевна /Сопова/
+2 GIVN Анна Андреевна
+2 _MARNM Сопова
+1 SEX F
+1 BIRT
+2 DATE 8 FEB 2012
+1 ADOP
+2 FAMC @F14@
+3 ADOP WIFE
+1 FAMC @F14@
+2 PEDI Adopted
+0 @I192@ INDI
+1 _UID DWknNQHpNhffBLsjMozyyio5/4I1
+1 NAME Татьяна Андреевна /Сопова/
+2 GIVN Татьяна Андреевна
+2 _MARNM Сопова
+1 SEX F
+1 BIRT
+2 DATE 8 FEB 2012
+1 ADOP
+2 FAMC @F14@
+3 ADOP WIFE
+1 FAMC @F14@
+2 PEDI Adopted
+0 @I193@ INDI
+1 _UID DWknNQHTA9MRL0qz5yGDPOCz5E9+
+1 NAME Ольга Андреевна /Сопова/
+2 GIVN Ольга Андреевна
+2 _MARNM Сопова
+1 SEX F
+1 BIRT
+2 DATE 8 FEB 2012
+1 ADOP
+2 FAMC @F14@
+3 ADOP WIFE
+1 FAMC @F14@
+2 PEDI Adopted
+0 @I194@ INDI
+1 _UID DWonNQGKQGVva+/nPew1Ua9bvfBB
+1 NAME Артём /Саннэ/
+2 GIVN Артём
+2 _MARNM Саннэ
+1 SEX M
+1 FAMS @F74@
+0 @I195@ INDI
+1 _UID DWonNQHQ+Z4pt1IwL/XvTHFOFrUe
+1 NAME Елена Артёмовна /Саннэ/
+2 GIVN Елена Артёмовна
+2 SURN Саннэ
+1 SEX F
+1 FAMC @F74@
+0 @I196@ INDI
+1 _UID DWonNQGVP1rcNZv1Igw1ZJieZfg8
+1 NAME Лина Артёмовна /Саннэ/
+2 GIVN Лина Артёмовна
+2 SURN Саннэ
+1 SEX F
+1 FAMC @F74@
+0 @I197@ INDI
+1 _UID DWonNQGsuG+R6l3Twy+AQtKoPW8x
+1 NAME Сергей Артёмович /Саннэ/
+2 GIVN Сергей Артёмович
+2 _MARNM Саннэ
+1 SEX M
+1 FAMC @F74@
+0 @I198@ INDI
+1 _UID DWonNQHha+pAY6oDzMpTI+dXAiJh
+1 NAME Ева Алексеевна /Протапопова/
+2 GIVN Ева Алексеевна
+2 SURN Протапопова
+1 SEX F
+1 FAMC @F29@
+0 @I199@ INDI
+1 _UID DWonNQEG7sXQrAjQtA+F0oc4e+v5
+1 NAME Прокопий /Куц/
+2 GIVN Прокопий
+2 _MARNM Куц
+1 SEX M
+1 DEAT Y
+1 FAMS @F75@
+0 @F13@ FAM
+1 HUSB @I33@
+1 CHIL @I1@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+1 CHIL @I5@
+1 CHIL @I19@
+1 CHIL @I23@
+1 CHIL @I24@
+1 CHIL @I25@
+1 CHIL @I26@
+1 CHIL @I27@
+1 CHIL @I28@
+1 CHIL @I29@
+1 CHIL @I30@
+1 CHIL @I32@
+1 CHIL @I43@
+1 MARR Y
+0 @F2@ FAM
+1 WIFE @I3@
+1 CHIL @I4@
+1 CHIL @I6@
+0 @F3@ FAM
+1 HUSB @I5@
+1 WIFE @I7@
+1 CHIL @I8@
+1 CHIL @I9@
+1 CHIL @I10@
+1 CHIL @I11@
+1 CHIL @I12@
+1 CHIL @I13@
+1 CHIL @I14@
+1 CHIL @I36@
+1 MARR Y
+0 @F4@ FAM
+1 HUSB @I9@
+1 CHIL @I15@
+1 CHIL @I16@
+1 CHIL @I17@
+1 CHIL @I18@
+0 @F5@ FAM
+1 HUSB @I13@
+1 CHIL @I128@
+1 CHIL @I129@
+0 @F6@ FAM
+1 WIFE @I14@
+1 CHIL @I126@
+1 CHIL @I127@
+0 @F7@ FAM
+1 HUSB @I19@
+1 WIFE @I20@
+1 CHIL @I21@
+1 CHIL @I22@
+1 MARR Y
+0 @F8@ FAM
+1 HUSB @I25@
+1 WIFE @I125@
+1 MARR Y
+0 @F9@ FAM
+1 HUSB @I29@
+1 WIFE @I124@
+1 MARR Y
+0 @F12@ FAM
+1 HUSB @I32@
+1 WIFE @I51@
+1 CHIL @I42@
+1 CHIL @I38@
+1 CHIL @I31@
+0 @F10@ FAM
+1 HUSB @I31@
+1 WIFE @I50@
+1 CHIL @I44@
+1 MARR
+2 DATE 2 AUG 1976
+2 PLAC Нижневартовск
+1 DIV
+2 DATE BEF SEP 1978
+0 @F11@ FAM
+1 HUSB @I31@
+1 WIFE @I37@
+1 CHIL @I34@
+1 CHIL @I49@
+1 CHIL @I39@
+1 MARR
+2 DATE 2 SEP 1978
+2 PLAC Нижневартовск
+0 @F17@ FAM
+1 HUSB @I40@
+1 CHIL @I33@
+0 @F14@ FAM
+1 WIFE @I34@
+1 CHIL @I190@
+1 CHIL @I192@
+1 CHIL @I193@
+0 @F19@ FAM
+1 HUSB @I48@
+1 CHIL @I35@
+0 @F15@ FAM
+1 HUSB @I36@
+1 CHIL @I41@
+1 CHIL @I48@
+0 @F18@ FAM
+1 HUSB @I46@
+1 WIFE @I47@
+1 CHIL @I45@
+1 CHIL @I37@
+1 MARR
+2 DATE 17 FEB 1949
+0 @F16@ FAM
+1 HUSB @I39@
+1 WIFE @I147@
+1 CHIL @I148@
+1 MARR
+2 DATE 14 JUL 2011
+2 PLAC Красноярск
+0 @F50@ FAM
+1 HUSB @I130@
+1 CHIL @I40@
+0 @F71@ FAM
+1 HUSB @I176@
+1 WIFE @I183@
+1 CHIL @I46@
+1 CHIL @I187@
+0 @F68@ FAM
+1 HUSB @I172@
+1 WIFE @I174@
+1 CHIL @I47@
+0 @F20@ FAM
+1 HUSB @I49@
+1 WIFE @I52@
+1 CHIL @I144@
+1 CHIL @I145@
+1 CHIL @I146@
+1 MARR
+2 DATE 30 APR 2008
+2 PLAC Красноярск
+0 @F21@ FAM
+1 HUSB @I54@
+1 WIFE @I53@
+1 CHIL @I52@
+1 CHIL @I59@
+1 MARR
+2 DATE 14 NOV 1981
+0 @F22@ FAM
+1 HUSB @I58@
+1 WIFE @I55@
+1 CHIL @I53@
+1 CHIL @I67@
+1 MARR Y
+0 @F23@ FAM
+1 HUSB @I56@
+1 WIFE @I57@
+1 CHIL @I54@
+1 CHIL @I61@
+1 CHIL @I62@
+1 MARR Y
+0 @F42@ FAM
+1 HUSB @I97@
+1 CHIL @I55@
+1 CHIL @I98@
+0 @F32@ FAM
+1 HUSB @I73@
+1 CHIL @I75@
+1 CHIL @I56@
+0 @F24@ FAM
+1 HUSB @I56@
+1 CHIL @I85@
+0 @F38@ FAM
+1 HUSB @I87@
+1 CHIL @I57@
+1 CHIL @I86@
+1 CHIL @I88@
+0 @F75@ FAM
+1 HUSB @I199@
+1 CHIL @I58@
+0 @F25@ FAM
+1 HUSB @I149@
+1 WIFE @I59@
+1 CHIL @I150@
+1 CHIL @I151@
+1 MARR Y
+0 @F27@ FAM
+1 HUSB @I61@
+1 WIFE @I63@
+1 CHIL @I60@
+1 CHIL @I64@
+1 MARR Y
+0 @F26@ FAM
+1 HUSB @I179@
+1 WIFE @I60@
+1 CHIL @I180@
+1 MARR Y
+0 @F28@ FAM
+1 HUSB @I65@
+1 WIFE @I62@
+1 CHIL @I66@
+1 CHIL @I68@
+1 MARR Y
+1 DIV Y
+0 @F47@ FAM
+1 HUSB @I112@
+1 WIFE @I113@
+1 CHIL @I63@
+1 CHIL @I115@
+1 CHIL @I117@
+1 CHIL @I119@
+0 @F29@ FAM
+1 HUSB @I181@
+1 WIFE @I64@
+1 CHIL @I198@
+1 MARR Y
+0 @F30@ FAM
+1 HUSB @I69@
+1 WIFE @I67@
+1 CHIL @I71@
+1 MARR Y
+1 DIV Y
+0 @F31@ FAM
+1 HUSB @I70@
+1 WIFE @I71@
+1 CHIL @I72@
+1 CHIL @I74@
+1 CHIL @I182@
+1 MARR Y
+0 @F33@ FAM
+1 HUSB @I77@
+1 WIFE @I75@
+1 CHIL @I76@
+1 CHIL @I79@
+1 CHIL @I80@
+1 MARR Y
+0 @F34@ FAM
+1 WIFE @I79@
+1 CHIL @I78@
+0 @F74@ FAM
+1 HUSB @I194@
+1 WIFE @I78@
+1 CHIL @I195@
+1 CHIL @I196@
+1 CHIL @I197@
+1 MARR Y
+0 @F35@ FAM
+1 HUSB @I80@
+1 WIFE @I81@
+1 CHIL @I84@
+1 CHIL @I83@
+1 MARR Y
+0 @F36@ FAM
+1 HUSB @I80@
+1 WIFE @I82@
+1 MARR
+2 TYPE Common law
+0 @F37@ FAM
+1 HUSB @I106@
+1 WIFE @I86@
+1 CHIL @I109@
+1 CHIL @I110@
+1 MARR Y
+0 @F39@ FAM
+1 HUSB @I88@
+1 CHIL @I89@
+1 CHIL @I90@
+1 CHIL @I91@
+0 @F40@ FAM
+1 HUSB @I89@
+1 CHIL @I94@
+1 CHIL @I95@
+1 CHIL @I96@
+0 @F41@ FAM
+1 WIFE @I91@
+1 CHIL @I92@
+1 CHIL @I93@
+0 @F43@ FAM
+1 HUSB @I101@
+1 WIFE @I98@
+1 CHIL @I99@
+1 CHIL @I102@
+1 MARR Y
+0 @F44@ FAM
+1 WIFE @I99@
+1 CHIL @I104@
+1 CHIL @I105@
+0 @F45@ FAM
+1 HUSB @I100@
+1 WIFE @I102@
+1 CHIL @I103@
+1 MARR Y
+0 @F46@ FAM
+1 HUSB @I109@
+1 WIFE @I111@
+1 CHIL @I107@
+1 CHIL @I108@
+1 MARR Y
+0 @F59@ FAM
+1 HUSB @I152@
+1 WIFE @I153@
+1 CHIL @I112@
+1 CHIL @I154@
+1 CHIL @I155@
+1 CHIL @I161@
+1 CHIL @I162@
+1 MARR
+2 DATE ABT 1930
+0 @F48@ FAM
+1 HUSB @I119@
+1 WIFE @I114@
+1 CHIL @I116@
+1 CHIL @I118@
+1 CHIL @I120@
+1 MARR Y
+0 @F49@ FAM
+1 HUSB @I115@
+1 WIFE @I121@
+1 CHIL @I122@
+1 CHIL @I123@
+1 MARR Y
+0 @F51@ FAM
+1 HUSB @I131@
+1 CHIL @I130@
+1 CHIL @I132@
+0 @F52@ FAM
+1 HUSB @I132@
+1 CHIL @I133@
+0 @F53@ FAM
+1 HUSB @I133@
+1 WIFE @I135@
+1 CHIL @I134@
+1 CHIL @I137@
+1 MARR Y
+0 @F54@ FAM
+1 HUSB @I134@
+1 WIFE @I139@
+1 CHIL @I141@
+1 CHIL @I142@
+1 MARR Y
+0 @F55@ FAM
+1 HUSB @I136@
+1 WIFE @I137@
+1 CHIL @I138@
+1 MARR Y
+0 @F56@ FAM
+1 HUSB @I141@
+1 CHIL @I140@
+0 @F57@ FAM
+1 HUSB @I142@
+1 WIFE @I143@
+1 MARR Y
+0 @F61@ FAM
+1 WIFE @I156@
+1 CHIL @I143@
+0 @F58@ FAM
+1 WIFE @I143@
+1 CHIL @I157@
+0 @F62@ FAM
+1 HUSB @I159@
+1 WIFE @I160@
+1 CHIL @I165@
+1 CHIL @I152@
+0 @F65@ FAM
+1 HUSB @I163@
+1 CHIL @I153@
+0 @F60@ FAM
+1 HUSB @I155@
+1 WIFE @I164@
+1 MARR Y
+0 @F63@ FAM
+1 HUSB @I161@
+1 CHIL @I166@
+0 @F64@ FAM
+1 HUSB @I168@
+1 WIFE @I162@
+1 MARR Y
+0 @F66@ FAM
+1 HUSB @I165@
+1 WIFE @I169@
+1 CHIL @I170@
+1 MARR
+2 DATE ABT 1929
+0 @F67@ FAM
+1 HUSB @I171@
+1 CHIL @I169@
+0 @F69@ FAM
+1 HUSB @I173@
+1 CHIL @I172@
+1 CHIL @I177@
+0 @F70@ FAM
+1 HUSB @I175@
+1 CHIL @I174@
+0 @F72@ FAM
+1 HUSB @I177@
+1 WIFE @I178@
+1 MARR
+2 DATE 6 JUN 1924
+0 @F73@ FAM
+1 WIFE @I187@
+1 CHIL @I188@
+0 @S4@ SOUR
+1 TITL Geni World Family Tree
+0 @S5@ SOUR
+1 TITL Россия, реестр кладбищенских записей, 1919-2012 гг.
+0 @S1@ SOUR
+1 TITL Семья Целлер
+0 @S2@ SOUR
+1 TITL Семья Целлер
+0 @S3@ SOUR
+1 TITL Моя семья
+0 TRLR

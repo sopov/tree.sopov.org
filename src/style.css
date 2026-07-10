@@ -1,0 +1,243 @@
+:root {
+  --surface: #fcfcfb;
+  --page: #f9f9f7;
+  --ink: #0b0b0b;
+  --ink-2: #52514e;
+  --muted: #898781;
+  --line: #e1e0d9;
+  --border: rgba(11, 11, 11, 0.1);
+  --male: #2a78d6;
+  --female: #e87ba4;
+  --male-fill: rgba(42, 120, 214, 0.1);
+  --female-fill: rgba(232, 123, 164, 0.12);
+  --unknown-fill: rgba(137, 135, 129, 0.1);
+  --ribbon: #1f1e1c;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --surface: #1a1a19;
+    --page: #0d0d0d;
+    --ink: #ffffff;
+    --ink-2: #c3c2b7;
+    --muted: #898781;
+    --line: #2c2c2a;
+    --border: rgba(255, 255, 255, 0.1);
+    --male: #3987e5;
+    --female: #d55181;
+    --male-fill: rgba(57, 135, 229, 0.16);
+    --female-fill: rgba(213, 81, 129, 0.16);
+    --unknown-fill: rgba(137, 135, 129, 0.16);
+    --ribbon: #9b9a92;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family:
+    system-ui,
+    -apple-system,
+    'Segoe UI',
+    sans-serif;
+  background: var(--page);
+  color: var(--ink);
+  height: 100vh;
+  overflow: hidden;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--line);
+  background: var(--surface);
+}
+
+header h1 {
+  font-size: 16px;
+  margin: 0;
+  white-space: nowrap;
+}
+
+#search {
+  flex: 0 1 320px;
+  padding: 6px 10px;
+  font: inherit;
+  color: var(--ink);
+  background: var(--page);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+}
+
+.legend {
+  display: flex;
+  gap: 12px;
+  margin-left: auto;
+  font-size: 13px;
+  color: var(--ink-2);
+}
+
+.legend span::before {
+  content: '';
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.legend .legend--m::before {
+  background: var(--male);
+}
+
+.legend .legend--f::before {
+  background: var(--female);
+}
+
+main {
+  display: flex;
+  flex: 1;
+  min-height: 0;
+}
+
+#tree {
+  flex: 1;
+  background: var(--surface);
+  cursor: grab;
+}
+
+#tree:active {
+  cursor: grabbing;
+}
+
+#panel {
+  width: 280px;
+  border-left: 1px solid var(--line);
+  background: var(--surface);
+  padding: 16px;
+  overflow-y: auto;
+  font-size: 14px;
+}
+
+#panel h2 {
+  font-size: 16px;
+  margin: 0 0 4px;
+}
+
+#panel .years,
+#panel .place {
+  color: var(--ink-2);
+  margin: 2px 0;
+}
+
+#panel .note {
+  color: var(--ink-2);
+  font-size: 13px;
+  white-space: pre-wrap;
+  margin: 8px 0;
+}
+
+#panel h3 {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  margin: 14px 0 4px;
+}
+
+#panel button {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 5px 8px;
+  margin: 2px 0;
+  font: inherit;
+  color: var(--ink);
+  background: none;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#panel button:hover {
+  border-color: var(--line);
+  background: var(--page);
+}
+
+.error {
+  padding: 24px;
+  color: var(--ink);
+}
+
+/* Дерево (SVG) */
+.link {
+  fill: none;
+  stroke: var(--line);
+  stroke-width: 1.5;
+}
+
+.link--spouse {
+  stroke-width: 2.5;
+}
+
+.marriage-dot {
+  fill: var(--line);
+}
+
+.card {
+  cursor: pointer;
+}
+
+.card rect {
+  stroke-width: 1.5;
+}
+
+.card--m rect {
+  fill: var(--male-fill);
+  stroke: var(--male);
+}
+
+.card--f rect {
+  fill: var(--female-fill);
+  stroke: var(--female);
+}
+
+.card--u rect {
+  fill: var(--unknown-fill);
+  stroke: var(--muted);
+}
+
+.card--root rect {
+  stroke-width: 3;
+}
+
+.card text {
+  text-anchor: middle;
+  pointer-events: none;
+}
+
+.card-name {
+  font-size: 12px;
+  font-weight: 600;
+  fill: var(--ink);
+}
+
+.card-years {
+  font-size: 11px;
+  fill: var(--ink-2);
+}
+
+.card-ribbon {
+  fill: var(--ribbon);
+}
